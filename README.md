@@ -1,5 +1,5 @@
 # Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+Exodus path from Egypt according to Ron Wyatt.
 
 ## Live links (replace with your own)
 - Leaflet Map https://cubakija.github.io/ron-wyatts-exodus-route-leaflet-map/index.html
