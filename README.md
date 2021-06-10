@@ -1,7 +1,7 @@
 # Leaflet Maps with Google Sheets
-Exodus path from Egypt according to Ron Wyatt.
 
-## Live links 
+
+## Exodus path from Egypt according to Ron Wyatt
 - Leaflet Map https://cubakija.github.io/ron-wyatts-exodus-route-leaflet-map/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/16Oz8Sg6YYZ8EiPEU0j-rXx1JriZQlfgsH1rx298LXYE/edit#gid=0
 
